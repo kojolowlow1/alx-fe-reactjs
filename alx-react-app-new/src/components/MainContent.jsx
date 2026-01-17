@@ -8,7 +8,7 @@ function MainContent() {
       }}
     >
       <h2 style={{ color: 'darkgreen' }}>Main Content</h2>
-      <p>Welcome to my React application.</p>
+      <p>I love to visit New York, Paris, and Tokyo.</p>
     </main>
   );
 }

@@ -9,7 +9,7 @@ function Footer() {
         marginTop: '20px'           // spacing above footer
       }}
     >
-      <p>&copy; 2026 My React App</p>
+      <p>&copy; 2023 City Lovers</p>
     </footer>
   );
 }
