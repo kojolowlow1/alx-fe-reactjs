@@ -2,8 +2,8 @@ import Header from './components/Header';
 import MainContent from './components/MainContent';
 import UserProfile from './components/UserProfile';
 import Footer from './components/Footer';
-import ProfilePage from './ProfilePage';
-import USerContext from './UserContext';
+import ProfilePage from '.components/ProfilePage';
+import USerContext from '.components/UserContext';
 
 
 function App() {
