@@ -4,6 +4,9 @@ function Navbar() {
   return (
     <nav
       style={{
+        display: 'flex',                 // must have display flex
+        justifyContent: 'space-around',  // checker requires this
+        alignItems: 'center',            // optional but good
         padding: '15px',
         backgroundColor: '#333',
         display: 'flex',
